@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanulo\\Git\\Employers\\miszfatifati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7AADF-375F-4100-88C7-BF764E1EEEBD}|miszfatifati\\miszfatifati.csproj|c:\\users\\tanulo\\git\\employers\\miszfatifati\\miszfatifati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7AADF-375F-4100-88C7-BF764E1EEEBD}|miszfatifati\\miszfatifati.csproj|solutionrelative:miszfatifati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\Git\\Employers\\miszfatifati\\miszfatifati\\Program.cs",
+              "RelativeDocumentMoniker": "miszfatifati\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\Git\\Employers\\miszfatifati\\miszfatifati\\Program.cs",
+              "RelativeToolTip": "miszfatifati\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:24:02.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
