@@ -1,0 +1,7 @@
+C:\Users\Tanulo\Git\Employers\miszfatifati\miszfatifati\bin\Debug\miszfatifati.exe.config
+C:\Users\Tanulo\Git\Employers\miszfatifati\miszfatifati\bin\Debug\miszfatifati.exe
+C:\Users\Tanulo\Git\Employers\miszfatifati\miszfatifati\bin\Debug\miszfatifati.pdb
+C:\Users\Tanulo\Git\Employers\miszfatifati\miszfatifati\obj\Debug\miszfatifati.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Git\Employers\miszfatifati\miszfatifati\obj\Debug\miszfatifati.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Git\Employers\miszfatifati\miszfatifati\obj\Debug\miszfatifati.exe
+C:\Users\Tanulo\Git\Employers\miszfatifati\miszfatifati\obj\Debug\miszfatifati.pdb
